@@ -1,0 +1,1 @@
+cmd.exe /K 'call "%USERPROFILE%\miniconda3\Scripts\activate.bat" && conda activate pytorch-gpu'
